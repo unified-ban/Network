@@ -104,6 +104,7 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@debian_it](https://t.me/debian_it)
 - [@italiakde](https://t.me/italiakde)
 - [@openslime](https://t.me/openslime)
+- [@gamingtalker](https://t.me/gamingtalker)
 
 ### Bot
 - [@unifiedban_bot](https://t.me/unifiedban_bot)
