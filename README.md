@@ -72,6 +72,8 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@linuxmusica](https://t.me/linuxmusicaAA)
 - [@shakesandfidgetita](https://t.me/shakesandfidgetita)
 - [@hypeutenti](https://t.me/hypeutenti)
+- [@modding_note8](https://t.me/modding_note8)
+- [@redmi5pita](https://t.me/redmi5pita)
 
 ### Channels
 - [@unifiedban](https://t.me/unifiedban)
@@ -102,13 +104,13 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@debian_it](https://t.me/debian_it)
 - [@italiakde](https://t.me/italiakde)
 - [@openslime](https://t.me/openslime)
-- [@multiplayeritnews](https://t.me/multiplayeritnews)
 
 ### Bot
 - [@unifiedban_bot](https://t.me/unifiedban_bot)
 - [@myjoshuabot](https://t.me/myjoshuabot)
 - [@gentedilinux_bot](https://t.me/gentedilinux_bot)
 - [@pcbuildrefbot](https://t.me/pcbuildrefbot)
-- [@ofoxpostbot](https://t.me/ofoxpostbot)
+- [@rsophiebot](https://t.me/rsophiebot)
+- [@betasophiebot](https://t.me/betasophiebot)
 - [@guida_tvbot](https://t.me/guida_tvbot)
 - [@mirkoassistantbot](https://t.me/mirkoassistantbot)
