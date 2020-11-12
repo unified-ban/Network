@@ -58,7 +58,6 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@motorism](https://t.me/motorism)
 - [@universitaridisperati](https://t.me/universitaridisperati)
 - [@politicaeattualita](https://t.me/politicaeattualita)
-- [@nodejsita](https://t.me/nodejsita)
 - [@electronicmusicproduction](https://t.me/electronicmusicproduction)
 
 ### Channels
