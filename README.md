@@ -42,7 +42,6 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@felinesec](https://t.me/felinesec)
 - [@felinesecot](https://t.me/felinesecot)
 - [@mysqld_it](https://t.me/mysqld_it)
-- [@philipshueyeelightsmarthome](https://t.me/philipshueyeelightsmarthome)
 - [@operatorimobilifissi](https://t.me/operatorimobilifissi)
 - [@assettocorsait](https://t.me/assettocorsait)
 - [@rete_fissa](https://t.me/rete_fissa)
@@ -57,7 +56,6 @@ Below are groups, channels and bots that have passed unified/ban security standa
 - [@redmi5pita](https://t.me/redmi5pita)
 - [@motorism](https://t.me/motorism)
 - [@universitaridisperati](https://t.me/universitaridisperati)
-- [@politicaeattualita](https://t.me/politicaeattualita)
 - [@electronicmusicproduction](https://t.me/electronicmusicproduction)
 
 ### Channels
