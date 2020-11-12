@@ -1,0 +1,52 @@
+- @unifiedban_group - OK
+- @redminote7italia - OK
+- @Huawei_Android_It - GH
+- @passionesmartphone - OK
+- @linuxpeople - OK
+- @opensuseitalia - OK
+- @vodafone_italia - GH
+- @rolexitaliancompravendita - GH
+- @deepinitalia - OK
+- @AndroidItaliaAI - OK
+- @librem5italia - OK
+- @artificial_intelligence_italia - GH
+- @perugia4chiacchiere - OK
+- @grafica_opensource - OK
+- @aospitalia - OK
+- @AOSPItaliaShop - OK
+- @googlepixelit - OK
+- @macositalia - OK
+- @fedoraita - OK
+- @debian_ita - OK
+- @linuxmintitalia - OK
+- @pcbuilditalia - OK
+- @androiditaliatelegram - OK
+- @archlinuxitalia - OK
+- @marcosboxcommunity - OK
+- @passionecomputer - UB NO ADMIN
+- @passionehomescreen - NO U/B
+- @voidlinux_it - NO U/B - SIGTERM
+- @nokiamobileita - OK
+- @lgmobileita - OK
+- @redminote5ita - OK
+- @pyreit - OK
+- @genteincucina - OK
+- @elementaryositaliagroup - OK
+- @felinesec - OK
+- @felinesecot - OK
+- @mysqld_it - GH
+- @operatorimobilifissi - OK
+- @assettocorsait - OK 
+- @rete_fissa - OK
+- @rete_mobile - OK
+- @expertime - NO U/B
+- @mikrotikitalia - NO U/B - GH
+- @ets2ita - GH
+- @openslimegruppo - OK
+- @webdevelopmentworld - GH
+- @shakesandfidgetita - OK
+- @hypeutenti - OK
+- @redmi5pita - OK
+- @motorism - OK
+- @universitaridisperati - OK
+- @electronicmusicproduction - GH
